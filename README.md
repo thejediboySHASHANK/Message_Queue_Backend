@@ -17,3 +17,9 @@ To get started with this project, follow the instructions below.
 
    ```sh
    git clone https://github.com/thejediboySHASHANK/Message_Queue_Backend.git
+
+2. Install the dependencies:
+
+   '''sh
+   npm install
+
