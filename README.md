@@ -29,4 +29,29 @@ To get started with this project, follow the instructions below.
 
 ### Usage
 
+1. Start the Redis server on your local machine using docker:
+
+   ```sh
+   docker run -itd -p 6379:6379 redis
+
+2. Run the worker file: 
+   
+   ```sh
+   node worker.js
+
+2. Run the producer file: 
+   
+   ```sh
+   node producer.js
+
+The producer will add a job to the queue, which will be processed by the worker.
+
+
+### Explanation
+
+The worker file (worker.js) contains the logic for processing the messages from the queue. It simulates sending an email by using a delay.
+
+The producer file (producer.js) demonstrates how to add a job to the queue. In this, it adds an email job with sample details.
+
+
 
