@@ -16,4 +16,4 @@ To get started with this project, follow the instructions below.
 1. Clone the repository:
 
    ```sh
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/thejediboySHASHANK/Message_Queue_Backend.git)https://github.com/thejediboySHASHANK/Message_Queue_Backend.githttps://github.com/thejediboySHASHANK/Message_Queue_Backend.git
+   git clone https://github.com/thejediboySHASHANK/Message_Queue_Backend.git
