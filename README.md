@@ -20,6 +20,9 @@ To get started with this project, follow the instructions below.
 
 2. Install the dependencies:
 
-   '''sh
+   ```sh
    npm install
+
+###Usage
+
 
